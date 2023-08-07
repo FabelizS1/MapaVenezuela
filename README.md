@@ -141,4 +141,11 @@ const mapaInfo2 = `{"type":"Topology","objects":{"venezuela":{"type":"GeometryCo
 ```
 
 
-![Mapa Venezuela] (Mapa Venezuela.png)
+![Mapa Venezuela](https://github.com/FabelizS1/MapaVenezuela/assets/137422926/0bebae1e-89f9-4821-8bdf-99167f981bac)
+
+
+
+
+
+
+

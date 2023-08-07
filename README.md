@@ -4,6 +4,10 @@ Este Mapa fue hecho con  el plugin de javascript de Datamaps
 https://datamaps.github.io/
 
 
+# Autor
+Fabeliz Irene Alvarez Salazar
+
+
 # Mapa de Venezuela
 
 Este es el mapa de Venezuela con todos sus estados. Tiene una breve descripcion cada uno de ellos.
@@ -125,3 +129,16 @@ Se agrego al archivo mapa.html para actualizar el color de fondo, las coordenada
 
 
 
+# Archivo Creado
+
+Se creo el archivo de venezuela.topo  para mostrar la informacion de los estados
+
+
+```bash
+
+const mapaInfo2 = `{"type":"Topology","objects":{"venezuela":{"type":"GeometryCollection","geometries":[{"type":"MultiPolygon","properties":{"name":null},"id":"-99","arcs":[[[0]],[[1]],[[2]],[[3]],[[4]],[[5]],[[6]],[[7]],[[8]],[[9]],[[10]],[[11]],[[12]],[[13]],[[14]],[[15]],[[16]],[[17]],[[18]],[[19]],[[20]],[[21]],[[22]],[[23]],[[24]],[[25]],[[26]],[[27]],[[28]],[[29]],[[30]],[[31]],[[32]],[[33]]]},{"type":"Polygon","properties":{"name":"<h1 class='letrasAzules'><img src='./img/bandera falcon.png' width='80px' height='50px'/><img src='./img/Escudo falcon.png' width='50px' height='50px'/>Falc&oacute;n</h1> <br/> Capital: Coro<br/>Fundacion: Juan de Ampies en 1527<br/>Superficie: 24.800 Km2<br/>Region: Occidente<br/>Rios Principales: Maticora y Tocuyo<br/>Relieve: Cerro Santa Ana y Sierra de San Luis"},"id":"FA","arcs":[[34,35,36,37]]},{"type":"Polygon","properties":{"name":"<h1 class='letrasAzules'><img src='./img/bandera Apure.png' width='80px' height='50px'/><img src='./img/Escudo apure.jpg' width='50px' height='50px'/>Apure</h1> <br/> Capital: San Fernando de Apure<br/>Fundacion: En 1788<br/>Superficie: 76.500 Km2<br/>Region: Los Llanos<br/>Hidrografia: Rio Apure, Rio Arauca, Ca&ntilde;o Orichuna, Capanaparo<br/>Cinaruco, Cunaviche, Matiyure y Meta"},"id":"AP","arcs":[[38,39,40,41,42]]},{"type":"Polygon","properties":{"name":"<h1 class='letrasAzules'><img src='./img/bandera barinas.jpg' width='80px' height='50px'/><img src='./img/Escudo barinas.png' width='50px' height='50px'/>Barinas</h1> <br/> Capital: Barinas<br/>Fundacion: Juan Andres Valera en 1576<br/>Superficie: 35.200 Km2<br/>Region: Los Llanos<br/>Rios Principales: Apure, Canagua, Guanare<br/>Santo Domingo, Masparro y Mena<br/>"},"id":"BA","arcs":[[43,44,45,-43,46,47,48]]},{"type":"Polygon","properties":{"name":"<h1 class='letrasAzules'><img src='./img/bandera merida.png' width='80px' height='50px'/><img src='./img/Escudo merida.png' width='50px' height='50px'/>Merida</h1> <br/> Capital: Merida<br/>Fundacion: Juan Rodriguez Suarez en 1558<br/>Superficie: 11.300 Km2<br/>Region: Los Andes<br/>
+
+```
+
+
+![Model] (https://github.com/FabelizS1/MapaVenezuela/blob/main/Mapa%20Venezuela.png)

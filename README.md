@@ -141,4 +141,4 @@ const mapaInfo2 = `{"type":"Topology","objects":{"venezuela":{"type":"GeometryCo
 ```
 
 
-![ezcv logo] (https://github.com/FabelizS1/MapaVenezuela/blob/main/Mapa%20Venezuela.png)
+![Mapa Venezuela] (Mapa Venezuela.png)
